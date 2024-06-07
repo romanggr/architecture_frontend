@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "Fixel Extra-Bold";
+    src: url("/public/fonts/FixelText-ExtraBold.otf");
+}
+
+@font-face {
+    font-family: "Fixel Light-Italic";
+    src: url("/public/fonts/FixelText-LightItalic.otf");
+}
+
+@font-face {
+    font-family: "Fixel Semi-Bold";
+    src: url("/public/fonts/FixelText-SemiBold.otf");
+}
+
+@font-face {
+    font-family: "Fixel Light";
+    src: url("/public/fonts/FixelText-Light.otf");
+}
+
+@font-face {
+    font-family: "Fixel Regular";
+    src: url("/public/fonts/FixelText-Regular.otf");
+}
+
+@font-face {
+    font-family: "Fixel Semi-Bold Italic";
+    src: url("/public/fonts/FixelText-SemiBoldItalic.otf");
+}
